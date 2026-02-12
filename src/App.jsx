@@ -11,6 +11,7 @@ function App() {
       kasun wathsala
       abcd
       kkkkkkk
+      kasun wathsala nilaweera
     </>
   )
 }
